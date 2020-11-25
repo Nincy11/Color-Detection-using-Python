@@ -12,4 +12,5 @@ The colors.csv file includes 865 color names along with their RGB and hex values
 Steps to run the project:
 1. Download and unzip the zip file
 2. Open cmd at the location of this particular file and type the below command:
+
 python color_detection.py -i <add your image path here>  //add the complete image path
