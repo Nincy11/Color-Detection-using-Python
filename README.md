@@ -1,5 +1,5 @@
 # Color-Detection-using-Python
-In this color detection Python project, you can select any image and click at any point and get its name. So for this, we will have a data file that contains the color name and its values. Then we will calculate the distance from each color and find the shortest one.
+In this color detection Python project, you can select any image and click at any point and get its name. So for this, a data file is used that contains the color name and its values. Then the distance from each color is calculated and will find the shortest one.
 
 The project folder contains 3 files:
 
