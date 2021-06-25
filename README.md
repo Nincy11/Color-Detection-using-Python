@@ -14,3 +14,7 @@ Steps to run the project:
 2. Open cmd at the location of this particular file and type the below command:
 
 python color_detection.py -i <add your image path here>  //add the complete image path
+
+  
+  #Screenshot 
+  ![image](https://user-images.githubusercontent.com/46756664/123384482-16e60380-d5b2-11eb-87fe-743b449131b5.png)
